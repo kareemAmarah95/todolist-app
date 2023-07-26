@@ -1,0 +1,9 @@
+.list-item {
+  padding: 20px;
+  background: silver;
+  margin: 20px 0px;
+}
+.done {
+  background: yellow;
+  background-color: rgb(223, 221, 221);
+}
